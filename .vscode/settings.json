@@ -1,0 +1,6 @@
+{
+  "yaml.schemas": {
+    "https://squidfunk.github.io/mkdocs-material/schema.json": "mkdocs.yml",
+    "https://json.schemastore.org/helmfile.json": "file:///Users/sagarvelankar/vscode/sagarvelankar/devops-backstage-postgresql-gitops/argocd/devops-backstage-postgresql.yaml"
+  }
+}
